@@ -1,0 +1,56 @@
+body {
+    
+    background-color: #ffdbb7;
+}
+
+/* Top Section */
+.hero {
+    text-align: center;
+    background-color: #faffeb;
+    width: 98vw;
+    height:50vh ;
+}
+
+.hero-img {
+
+    border-radius: 20px;
+    border: 3px solid #a37d5b;
+    width:30vw;
+    height: 30vh;
+}
+
+
+/* Coffee Types Section */
+.container {
+    width: 50vw;
+    height: 20vh;
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+    color: #201912;
+}
+
+.box {
+    background-color: #fff;
+    border: 2px solid #6d3e15;
+    border-radius: 12px;
+    padding: 15px;
+    margin-bottom: 30px;
+
+}
+.box-img {
+    border: 3px solid #a37d5b;
+    border-radius: 20px;
+
+    
+}
+
+.box h3 {
+    color: #201912;
+}
+
+.box p {
+    color: rgb(66, 9, 9);
+}
